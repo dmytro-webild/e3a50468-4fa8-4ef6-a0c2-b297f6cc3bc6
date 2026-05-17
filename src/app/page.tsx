@@ -149,7 +149,6 @@ export default function LandingPage() {
             title="Frequently Asked Questions"
             description="Find quick answers about our detection tools and awareness modules."
             faqsAnimation="slide-up"
-            textboxLayout="default"
           />
         </div>
 
